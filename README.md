@@ -12,8 +12,8 @@ Download this repository, and when you have done follow these steps below :
 ```sh
 java -jar course-api-0.0.1-SNAPSHOT.jar
 ```
-  - wait a moment, this proces will start tomcat and run the service on port 8080
-  - open your favourite browser, and then type **http://localhost:8080/topic**
+  - wait a moment, this proces will start tomcat and run the service on port 8081
+  - open your favourite browser, and then type **http://localhost:8081/topic**
   
   
 ### API

@@ -1,4 +1,4 @@
-package com.annasblackhat.springbootstarter;
+package com.annasblackhat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
